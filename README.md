@@ -1,2 +1,2 @@
 # Hello-World
-Just a simple program.
+Github上的第一次尝试
